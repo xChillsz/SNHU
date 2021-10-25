@@ -5,6 +5,7 @@
     The best way to interpret a User's needs and implement them into a program is to put yourself in the User's shoes and 
     imagine what they would require to succeed. A user story helps provide that background to a piece of functionality. By having a user story a developer can put themselves in the User's shoes and begin brainstorming additional ways to provide additional value to the user.
     
+    
     How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
     
     When developing I like to deliver base functionality first then move forward. I would like to incorporate more refactoring into my development style. I spend too much time tunneling problems and delivering Final Drafts of work rather then creating small samples of quickly delivered work.
