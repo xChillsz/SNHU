@@ -1,0 +1,19 @@
+Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
+
+The DriverPass System is owned by DriverPass and is a dream child of the DriverPass Owner Liam. Liam wanted to create a new system that would fill a void in the market for student drivers. The system would allow users to access learning materials, and practice tests, and create reservations for on-the-road training. Users could also create reservations by selecting predefined packages, selecting drivers and cars.
+
+What did you do particularly well?
+
+I did well at analyzing and identifying the requirements necessary for a successful implementation. I also created numerous UML Diagrams depicting various aspects of the system. 
+
+If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+
+Even though it's recommended to keep Business Requirement Documents direct and concise. I would make an alternate version that includes more depth that includes information on Operating System benefits, Cloud Services, and Interface Design ideas.
+
+How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
+
+To better interpret the user's needs I placed myself in the role of the user and thought about how specific users would like to interact with the system. This can be seen clearly when I break down the Dashboards and Interface in the Business Requirement Document. I give insight into the fields available to the user and different maintenance interfaces necessary for an IT Manager.
+
+How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
+
+I tend to use a Top-Down system design approach; this allows me to look at the big picture and break it down into smaller components necessary for the system to meet expectations. By breaking the system down into smaller components, I can use Object Oriented Design to create the classes, or data structures necessary for the system to function. Through my work experience, I've been taught to implement a hybrid-agile method of analysis and implementation. In the future, I would like to work completely in agile. I would also implement the use of UML Diagrams in different aspects.
