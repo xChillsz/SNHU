@@ -1,0 +1,11 @@
+How can I ensure that my code, program, or software is functional and secure?
+
+By implementing Test Cases with JUNIT5 I am able to ensure the integrity of the system. With JUNIT I can set up test cases on different methods and make sure that their assertions evaluate properly. Once these test cases are set up I can run regression tests any time code changes are made to ensure everything is secure.
+
+How do I interpret user needs and incorporate them into a program?
+
+To better interpret the user's needs I placed myself in the role of the user and thought about how specific users would like to interact with the system. For this, I look at the requirements and think about different gaps that may be missing or validations that make sense in order to create the best possible user experience.
+
+How do I approach designing software?
+
+I tend to use a Top-Down system design approach; this allows me to look at the big picture and break it down into smaller components necessary for the system to meet expectations. By breaking the system down into smaller components, I can use Object Oriented Design to create the classes, or data structures necessary for the system to function. Through my work experience, I've been taught to implement a hybrid-agile method of analysis and implementation. In the future, I would like to work completely in agile. I would also implement the use of UML Diagrams in different aspects as well as JUNIT Testing.
