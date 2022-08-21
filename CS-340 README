@@ -1,0 +1,16 @@
+How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
+
+To write maintainable, readable, and adaptable programs we must set up manageable classes with comments, security and dynamic methods. There were a lot of advantages to working this way because it makes troubleshooting very simple. Using user authentication helps us identify issues connected to security. Line Comments help us make sense of the methods and code. Setting up Dynamic methods allows developers to work freely within the limits we set for database use. This CRUD python module can be used as a reference for future modules.
+
+How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
+
+I approach my problems methodically. I work with each piece individually and fine tune each component until it's perfect. That's how I had to work on the Grazioso Salvar dashboard. This assignment was quite difficult because of all the broken code and the issues that each piece brought. 
+
+Strategies for the future 
+- Take everything one step at a time
+- Find ways to constantly open windows into data you are working with
+- Troubleshoot frequently
+
+What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+
+Computer scientest provide companies with the tools necessary to achieve their goals. By allowing employees to have access to reports and dashboards they can effectively do their job without having to dig through numerous documents and finding specific fields.
