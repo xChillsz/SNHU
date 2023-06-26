@@ -1,4 +1,4 @@
-# SNHU
+# CS-370 Current Emerging Trends
 
 What code were you given? What code did you create yourself?
 
