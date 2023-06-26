@@ -4,19 +4,25 @@ What code were you given?
 
 I was supplied with the majority of the code in this assingment. Except for the QTraining Method.
 
+
 What code did you create yourself?
 
 I created the QTraining Method so that it aligns with the Machine/Deep Learning best practices we were taught.
 
+
+
 Connect your learning from throughout this course to the larger field of computer science:
+
 
 What do computer scientists do and why does it matter?
 
 Computer Scientist work on using data to their advantage to complex tasks and functionality. This matters because it allows us to provide dynamic workflows to users so that they can complete tasks more efficiently. We allow society to advance at a much quicker rate than  manual workflows.
 
+
 How do I approach a problem as a computer scientist?
 
 As a computer scientist, I approach problems by analyzing our workflows, data, and desired outcome. It's also important to find ways to standardize workflows and data so that our program can function efficiently. It's good to start with what's there, gather new requirements and work on a solution to incorporate old and new workflows/functionality.
+
 
 What are my ethical responsibilities to the end user and the organization?
 
